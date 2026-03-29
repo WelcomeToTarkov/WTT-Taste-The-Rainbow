@@ -1,0 +1,260 @@
+{
+    "manifest": [
+        {
+            "key": "mods/magazines/lancer_common_assets.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_alien_grn.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_blk.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_blz_orng.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_clear.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_dfde.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_fde.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_pnk.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_purple.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_red.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_robins_egg_blue.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_smoke.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_trnsp_tan.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_urban.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/10/l10_white.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_alien_grn.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_blk.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_blz_orng.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_clear.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_dfde.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_fde.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_pnk.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_purple.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_red.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_robins_egg_blue.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_smoke.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_trnsp_tan.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_urban.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/20/l20_white.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_alien_grn.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_blk.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_blz_orng.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_clear.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_dfde.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_opaque_fde.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_pnk.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_purple.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_red.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_robins_egg_blue.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_smoke.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_trnsp_tan.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_urban.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        },
+        {
+            "key": "mods/magazines/lancer_mags/30/l30_white.bundle",
+            "dependencyKeys": [
+                "mods/magazines/lancer_common_assets.bundle"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3594 @@
+{
+  "cb84ac6a1eb17a4edb33a609": {
+    "itemTplToClone": "5d1340b3d7ad1a0b52682ed7",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_blk.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Black)",
+        "shortName": "L5-AWM 30",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 9200,
+    "handbookPriceRoubles": 2800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f82e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "5a28d47ee749c0e439c33f63": {
+    "itemTplToClone": "5d1340b3d7ad1a0b52682ed7",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_opaque_fde.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (FDE)",
+        "shortName": "<color=#ffb039><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 9200,
+    "handbookPriceRoubles": 2800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f82f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "30198c968739be924b3b3b16": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_trnsp_tan.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Transparent FDE)",
+        "shortName": "<color=#ffb039><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f830": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5460,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "ac2df0d8fda26fd2f823f5c9": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_smoke.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Smoke)",
+        "shortName": "L5-AWM 30",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f831": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5460,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "2cc04e2e60743eb7f1fecb26": {
+    "itemTplToClone": "5d1340b3d7ad1a0b52682ed7",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_dfde.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (DFDE)",
+        "shortName": "<color=#826408><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f832": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 38,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "10d54b4891a6e369e5df16a4": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_pnk.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Pink)",
+        "shortName": "<color=#ff8484><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f833": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 38,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "f6a7f4b908129bcd6e844517": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_blz_orng.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Blaze Orange)",
+        "shortName": "<color=#ff8c15><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f834": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 38,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "a6479b0773f1cb42109786f4": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_robins_egg_blue.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Robins Egg Blue)",
+        "shortName": "<color=#a0caf0><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f835": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "8ad0b000ff90dbb632aede52": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_red.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Red)",
+        "shortName": "<color=#ac0c06><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f836": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "ab19ce32499e440804ecbc2a": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_alien_grn.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Alien Green)",
+        "shortName": "<color=#61f122><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f837": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "22dcb3846b62e3a5d481070f": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_purple.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Purple)",
+        "shortName": "<color=#bf00ff><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f838": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "74528dc4af5ce6b024211f18": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_clear.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Clear)",
+        "shortName": "L5-AWM 30",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f839": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 38,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "41ae48727410a7a87dea7924": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_urban.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-30",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Urban)",
+        "shortName": "<color=#8e8e8e><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f83a": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 38,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "e5608f9c2580bd6162ea9733": {
+    "itemTplToClone": "5d1340b3d7ad1a0b52682ed7",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/30/l30_white.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 30-round Magazine (Arctic Warfare White)",
+        "shortName": "<color=#5b5b5b><b>L5-AWM 30</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 19200,
+    "handbookPriceRoubles": 3400,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f83b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6372a96eefbde76617f0fb0b": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_blk.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Black)",
+        "shortName": "L5-AWM 20",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 6200,
+    "handbookPriceRoubles": 2000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f83c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "d1bd44359512206c5c9465fa": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_fde.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (FDE)",
+        "shortName": "<color=#ffb039><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 6200,
+    "handbookPriceRoubles": 2000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f83d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "13c7d1025357080141dea9b0": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_smoke.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Smoke)",
+        "shortName": "L5-AWM 20",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f83e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "ecf4851b3e8b953c9de8be64": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_clear.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Clear)",
+        "shortName": "L5-AWM 20",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f83f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "4c961eb055f76254f0ebd203": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_trnsp_tan.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Transparent FDE)",
+        "shortName": "<color=#ffb039><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f840": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "bd3a5159ec1162cebd60208c": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_purple.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Purple)",
+        "shortName": "<color=#bf00ff><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f841": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "f1d3b0e708a0016dce7b2fe7": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_red.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Red)",
+        "shortName": "<color=#ac0c06><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f842": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6310a3c65c3773ee72fb8a8f": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_alien_grn.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Alien Green)",
+        "shortName": "<color=#61f122><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f843": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "945968789d2ce83c229d3e77": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_urban.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Urban)",
+        "shortName": "<color=#8e8e8e><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f844": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "72371f898a9d7c8aa64def1b": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_robins_egg_blue.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Robins Egg Blue)",
+        "shortName": "<color=#a0caf0><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f845": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "d6051a31f285484879b2f7d0": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_blz_orng.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Blaze Orange)",
+        "shortName": "<color=#ff8c15><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f846": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "f2c56bb509b804160ec9c4de": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_pnk.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Pink)",
+        "shortName": "<color=#ff8484><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f847": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "273c7e5c6e5f2a90f200a9a1": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_dfde.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-20",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (DFDE)",
+        "shortName": "<color=#826408><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f848": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "73b65e40b67a12930347b470": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/20/l20_white.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 20-round Magazine (Arctic Warfare White)",
+        "shortName": "<color=#5b5b5b><b>L5-AWM 20</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f849": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "308096cf4dae1487027970ab": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_blk.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Black)",
+        "shortName": "L5-AWM 10",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 4200,
+    "handbookPriceRoubles": 1500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f84a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3220,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "e10efe1bf7d5c2ee4ba9ed4e": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_fde.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (FDE)",
+        "shortName": "L5-AWM 10",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 4200,
+    "handbookPriceRoubles": 1500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f84b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3220,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "a56f2b10633f8fe40bc1be0b": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_smoke.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Smoke)",
+        "shortName": "L5-AWM 10",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f84c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3552,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "8294daa7876d2070f98e0258": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_clear.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Clear)",
+        "shortName": "L5-AWM 10",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69c96b07dff44072c2e9f84d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3552,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "8d289199904743b15359baa1": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_trnsp_tan.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Transparent FDE)",
+        "shortName": "<color=#ffb039><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f84e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "a34949db0611fe44983fcbe2": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_purple.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Purple)",
+        "shortName": "<color=#bf00ff><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f84f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "9c285a8b9be4ae4f70b5725a": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_red.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Red)",
+        "shortName": "<color=#ac0c06><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f850": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "4734471ad9b52237780daceb": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_alien_grn.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Alien Green)",
+        "shortName": "<color=#61f122><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f851": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "d2d65c79307f8aabe7f055a0": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_urban.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Urban)",
+        "shortName": "<color=#8e8e8e><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f852": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "f5084bbed0a9009cd1dd52b6": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_robins_egg_blue.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Robins Egg Blue)",
+        "shortName": "<color=#a0caf0><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f853": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "66a90c701f8d1397aa564bd0": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_blz_orng.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Blaze Orange)",
+        "shortName": "<color=#ff8c15><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f854": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "a2b46a91589499bb5fa307d0": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_pnk.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Pink)",
+        "shortName": "<color=#ff8484><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69c96b07dff44072c2e9f855": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "f242c171cd19cb7d9dee591d": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_dfde.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey",
+      "VisibleAmmoRangesString": "1-10",
+      "CheckTimeModifier": -35
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (DFDE)",
+        "shortName": "<color=#826408><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f856": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "cc29e4b69a3cff6215799bd2": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/magazines/lancer_mags/10/l10_white.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "grey"
+    },
+    "locales": {
+      "en": {
+        "name": "5.56x45 Lancer L5-AWM 10-round Magazine (Arctic Warfare White)",
+        "shortName": "<color=#5b5b5b><b>L5-AWM 10</b></color>",
+        "description": "Lancer set out to design a better 5.56 magazine; one with the reliability of steel and the durability and weight of polymer. The L5 Advanced Warfighter Magazine (AWM) is that magazine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5200,
+    "handbookPriceRoubles": 1800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69c96b07dff44072c2e9f857": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}
